@@ -2,7 +2,3 @@
 333
 main
 sadf
-sdg
-dddd
-eeee
-ffff
